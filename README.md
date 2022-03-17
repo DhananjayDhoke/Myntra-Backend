@@ -35,6 +35,8 @@ The following is the tech stack we used to build this website :-
 
 All the data got stored in and called from _**Mongo Atlas cloud database**_.
 
+![Myntra_DataBase](https://user-images.githubusercontent.com/95853553/158794869-86784b80-ab7e-41ea-9d23-40140ac78317.png)
+
 ## Libraries & Packages
 
 ### NPM Packages
